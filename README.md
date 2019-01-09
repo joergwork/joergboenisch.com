@@ -1,5 +1,5 @@
-# Welcome to joergboenisch.com
+# Jörg A. Bönisch 
+IT Generalist, Entrepreneur
 
-
-
-Ing. Jörg A. Bönisch BSc.
+** email: ** joerg@joergwork.org
+** phone: ** +43 660 9379113
