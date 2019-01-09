@@ -2,6 +2,6 @@
 IT Generalist, Entrepreneur
 
 
-**email:** joerg[at]joergwork.org
+**email:** joerg@joergwork.org
 
 **phone:** +43 660 9379113
