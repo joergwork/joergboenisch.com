@@ -2,6 +2,6 @@
 IT Generalist, Entrepreneur
 
 
-**email:** joerg@joergwork.org
+**email:** mail@joergboenisch.com
 
 **phone:** +43 660 9379113
