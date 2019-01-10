@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # IT Generalist, Business Informatics
 
 
