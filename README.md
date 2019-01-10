@@ -1,5 +1,8 @@
-# Jörg Bönisch 
-IT Generalist, Business Informatics
+---
+layout: default
+---
+
+# IT Generalist, Business Informatics
 
 
 **email:** mail@joergboenisch.com
