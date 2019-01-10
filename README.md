@@ -1,5 +1,5 @@
 # Jörg Bönisch 
-IT Generalist, Entrepreneur
+IT Generalist, Business Informatics
 
 
 **email:** mail@joergboenisch.com
